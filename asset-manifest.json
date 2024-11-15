@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/herapp/static/css/main.690f8aa2.css",
+    "main.js": "/herapp/static/js/main.cb0db119.js",
+    "static/js/453.3e36deca.chunk.js": "/herapp/static/js/453.3e36deca.chunk.js",
+    "index.html": "/herapp/index.html",
+    "main.690f8aa2.css.map": "/herapp/static/css/main.690f8aa2.css.map",
+    "main.cb0db119.js.map": "/herapp/static/js/main.cb0db119.js.map",
+    "453.3e36deca.chunk.js.map": "/herapp/static/js/453.3e36deca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.690f8aa2.css",
+    "static/js/main.cb0db119.js"
+  ]
+}
